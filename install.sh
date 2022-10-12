@@ -1,3 +1,4 @@
 echo "installing software:"
-sudo yum install git 
-sudo yum install wget
+sudo apt install git 
+sudo apt install wget
+sudo apt install tree 
